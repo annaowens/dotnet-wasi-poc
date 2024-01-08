@@ -25,4 +25,3 @@ Or directly start node from the AppBundle directory:
 ```
 wasmtime bin/$(Configuration)/net8.0/browser-wasm/AppBundle/dotnet-wasi-poc.wasm
 ```
->>>>>>> af045b23ee0cf5a168ed708d442508e873452d4b
