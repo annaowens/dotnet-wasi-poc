@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "//2qvCRo+5E7m7qfDyZjRl359sqmG0Lcf3/YQUVtOMR2uOEkz36o8O9nzmOsD3BWHNHut1IL3IjkXO4/urwsQw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\annaowens\\development\\dotnet-wasi-poc\\dotnet-wasi-poc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\annaowens\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.0\\microsoft.net.illink.tasks.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
